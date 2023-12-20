@@ -1,3 +1,6 @@
+![image](image/Glace1.jpg)
+![image](image/Glace2.jpg)
+
 # GrAPiC 
 
 ## Starting
