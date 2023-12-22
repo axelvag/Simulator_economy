@@ -1,6 +1,6 @@
 # Simulator Economy
 
-Simulation économique des marchands de glaces
+Economic simulation of ice cream sellers:
 
 ![image](image/Glace1.jpg)
 ![image](image/Glace2.jpg)
