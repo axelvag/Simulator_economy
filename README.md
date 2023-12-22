@@ -1,11 +1,13 @@
 # Simulator Economy
 
-Economic simulation of ice cream sellers:
+Economic simulation of ice cream sellers !
 
 When the simulation starts:
+
 ![image](image/Glace1.jpg)
 
 After 5 mins :
+
 ![image](image/Glace2.jpg)
 
 Each time you start the program, the configuration of the zones and prices is different.
