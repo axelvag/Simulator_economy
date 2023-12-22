@@ -78,6 +78,14 @@ are they the lowest?
 
 ```
 
+# Starting
+
+Clone this repo
+```
+$ git clone https://github.com/axelvag/Simulator_economy
+```
+
+
 # GrAPiC 
 
 ## Starting
