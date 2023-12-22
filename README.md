@@ -4,6 +4,7 @@ Economic simulation of ice cream sellers:
 
 When the simulation starts:
 ![image](image/Glace1.jpg)
+
 After 5 mins :
 ![image](image/Glace2.jpg)
 
